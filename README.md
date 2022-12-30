@@ -1,6 +1,6 @@
 [![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/252/817/original/ivan-boyko-clouds-morning.gif?1581813503)](https://jehianth.github.io)
 <h1 align="center">Hi 👋, I'm Jehian</h1>
-<h3 align="center">A Student Informatic At Unsoed</h3>
+<h3 align="center">An Informatic Student At Soedirman University</h3>
 <img align="right" alt="code" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jehianth&label=Profile%20views&color=0e75b6&style=flat" alt="jehianth" /> </p>
