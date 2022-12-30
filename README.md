@@ -1,3 +1,4 @@
+![cloud](https://user-images.githubusercontent.com/55863992/210047570-c0b64325-d0d8-41bf-8f33-e085c556ebc3.gif)
 [![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/252/817/original/ivan-boyko-clouds-morning.gif?1581813503)](https://jehianth.github.io)
 <h1 align="center">Hi 👋, I'm Jehian</h1>
 <h3 align="center">An Informatic Student At Soedirman University</h3>
